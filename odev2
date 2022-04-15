@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika Html Ödev 1</title> <!-- Tarayıcıdaki sekme adı -->
+</head>
+
+ <body>
+
+    <h1 id="header">Pelin Yüksel</h1> <!-- Ana Başlık -->
+
+    <img src="https://cdnp2.stackassets.com/b1284961a6fbcbcfabe6f69c2ae4219ff6daa5e0/store/opt/596/298/1ca89e578fc4e326fe08196758c1688929acc8c5eeb8572e2282628cad78/product_30565_product_shot_wide.jpg" width="298" height="149"/>
+ 
+
+    <h2>Hakkımda</h2>  <!-- Alt Başlık -->
+    
+    <p>
+     Merhaba ben <em>Pelin Yüksel</em> . 25 yaşındayım. Eskişehir'de yaşıyorum.<br>Bilgisayar Programcılığı okuyorum. <strong>Patika</strong>'da frontend öğrencisiyim. İleride web geliştiricisi olmak istiyorum.
+    </p>
+    
+    <h2>İlgi Alanları</h2> <!-- Alt Başlık 2 -->
+    
+    <p>Kitap okumak, bilgisayar oyunları oynamak, dizi-film izlemek ve dil öğrenmek ilgi alanlarım içerisinde.</p>
+
+    <h3> Sevdiğim Diziler </h3>
+    <ul> 
+        <li>
+                <a href=" https://www.imdb.com/title/tt0108778/" target="_blank">
+                    Friends </a>
+                    <br>
+
+                <img src="https://www.stylist.co.uk/images/app/uploads/2018/01/25155748/Friends-1-256x256.jpg?w=256&h=256&fit=max&auto=format%2Ccompress" title="Friends Oyuncuları" widht="128" height="128" />
+        </li>
+
+         <li> 
+                <a href=" https://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1" target="_blank">
+            Sherlock </a> 
+            <br>  
+            
+                <img src="https://c-cl.cdn.smule.com/rs-s54/arr/6a/15/17b487b8-b855-4514-b439-24a607b9d77c.jpg" title="Sherlock Oyuncuları" widht="128" height="128" />
+            
+        </li>
+
+        <li>
+                 <a href="https://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1" target="_blank">
+                Game of Thrones </a> 
+                <br>
+
+                <img src="https://avatarfiles.alphacoders.com/191/thumb-1920-191956.jpg" title="Dizi Afişi" widht="128" height="128" />
+            
+        </li>
+    </ul>
+
+    <hr>
+    <br>
+    <h3>İletişim</h3>
+
+    <a href="mailto: plnyksl26@gmail.com"> 
+
+        <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" widht="40" height="40" />
+
+    </a> 
+
+    <a href="tel: +905067989939"> 
+
+        <img src="https://i.pinimg.com/originals/46/7f/7f/467f7fb4e8c048b2483553da793a2e23.png" widht="40" height="40" />
+
+    </a> 
+
+    <a href="https://github.com/yukselpelin"> 
+
+        <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" widht="40" height="40" />
+
+    </a> 
+
+    <br>
+       
+    <a href="#header" > Başlığa dönmek için tıklayınız! </a>
+
+ </body>
+</html>
